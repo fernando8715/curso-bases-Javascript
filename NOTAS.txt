@@ -1,0 +1,20 @@
+Hay cinco datos de tipos primitivos: numerico, string, boolenados, undefined, null
+
+{} las llaves son una definicion de un objeto vacio. un objeto puede tener tipos primitivo como tambien objetos. 
+pero dentro de los objetos. lo que esta dentro del objeto son las propiedades del objeto
+
+ejemplo objeto 
+
+var obj = {
+	numero: 10,
+	texto: "Nuevo texto",
+
+	objHijo: {
+		numero2: 5,
+		texto2: "Fernando"
+	}
+
+};
+
+
+// los nombres de los objetos con dos o mas palabras se utiliza camelCase
